@@ -1,0 +1,10 @@
+Petrov 100000
+Ivanov 50000
+Sidorov 35000
+Gusev 12000
+Petrosyan 32675.78
+Zadornov 34897.08
+Yumatov 12089
+Podolyaka 19865.76
+Onufrienko 17564
+Ends 34254.87
